@@ -16,7 +16,8 @@ SECRET_KEY = 'django-insecure-_z8m8to*3ka-i4m6t4^+7@j&&$7p!0hb1+^2pd(svnz8+yr6+k
 DEBUG = True
 
 # Allow all during development (Lovable frontend will work)
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ['https://verdantis-backend.onrender.com']
+
 
 
 # Application definition
