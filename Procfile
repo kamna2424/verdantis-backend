@@ -1,1 +1,1 @@
-web: gunicorn verdantis.wsgi:application
+web: gunicorn verdantis.wsgi
