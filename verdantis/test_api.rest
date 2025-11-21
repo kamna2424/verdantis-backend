@@ -1,0 +1,9 @@
+POST http://127.0.0.1:8000/api/suggest/
+Content-Type: application/json
+
+{
+  "temperature": 25,
+  "humidity": 45,
+  "soil_moisture": 20,
+  "ph": 7
+}
