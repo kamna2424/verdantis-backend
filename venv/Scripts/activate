@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\kamna\OneDrive\Desktop\VERDANTIS-BACKEND\venv"
+VIRTUAL_ENV="C:\Dev_projects\VERDANTIS-BACKEND\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
